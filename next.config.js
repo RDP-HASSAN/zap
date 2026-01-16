@@ -1,0 +1,1 @@
+const nextConfig = { reactStrictMode: true };\nmodule.exports = nextConfig;
