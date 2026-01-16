@@ -1,0 +1,12 @@
+.bg-custom {
+  background-color: #f0f0f0;
+}
+
+.text-custom {
+  color: #333;
+}
+
+/* Tailwind CSS imports */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
